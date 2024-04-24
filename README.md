@@ -10,7 +10,9 @@
 - Stop-and-Wait-normal
 - Stop-and-Wait-ARQ
 - TCP Calculator
-![](https://miro.medium.com/v2/resize:fit:543/1*dw4cFoQ2OL2SjybxzU1DHA.jpeg)
+
+![](https://static.javatpoint.com/cpp/images/socket-programming-in-c-or-cpp.png)
+
 ### Instructions for Running the Server and Client
 
 ### Compiling the Code
